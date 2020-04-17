@@ -129,7 +129,7 @@ module.exports = {
   },
   'British Indian Ocean Territory': {
     'abbreviation': 'IO',
-    'currency': 'GBP'
+    'currency': 'USD'
   },
   'Brunei Darussalam': {
     'abbreviation': 'BN',
@@ -225,7 +225,7 @@ module.exports = {
   },
   'Cuba': {
     'abbreviation': 'CU',
-    'currency': 'CUC'
+    'currency': 'CUP'
   },
   'Cyprus': {
     'abbreviation': 'CY',
@@ -265,11 +265,11 @@ module.exports = {
   },
   'El Salvador': {
     'abbreviation': 'SV',
-    'currency': 'SVC'
+    'currency': 'USD'
   },
   'Equatorial Guinea': {
     'abbreviation': 'GQ',
-    'currency': 'USD'
+    'currency': 'XAF'
   },
   'Eritrea': {
     'abbreviation': 'ER',
@@ -461,7 +461,7 @@ module.exports = {
   },
   'Kiribati': {
     'abbreviation': 'KI',
-    'currency': 'KID'
+    'currency': 'AUD'
   },
   "Korea, Democratic People's Republic Of": {
     'abbreviation': 'KP',
@@ -470,6 +470,10 @@ module.exports = {
   'Korea, Republic Of': {
     'abbreviation': 'KR',
     'currency': 'KRW'
+  },
+  'Kosovo': {
+    'abbreviation': 'XK',
+    'currency': 'EUR'
   },
   'Kuwait': {
     'abbreviation': 'KW',
@@ -587,6 +591,10 @@ module.exports = {
     'abbreviation': 'MN',
     'currency': 'MNT'
   },
+  'Montenegro': {
+    'abbreviation': 'ME',
+    'currency': 'EUR'
+  },
   'Montserrat': {
     'abbreviation': 'MS',
     'currency': 'XCD'
@@ -677,7 +685,7 @@ module.exports = {
   },
   'Panama': {
     'abbreviation': 'PA',
-    'currency': 'PAB'
+    'currency': 'USD'
   },
   'Papua New Guinea': {
     'abbreviation': 'PG',
@@ -763,9 +771,9 @@ module.exports = {
     'abbreviation': 'SN',
     'currency': 'XOF'
   },
-  'Serbia and Montenegro': {
-    'abbreviation': 'CS',
-    'currency': 'CZK'
+  'Serbia': {
+    'abbreviation': 'RS',
+    'currency': 'RSD'
   },
   'Seychelles': {
     'abbreviation': 'SC',
@@ -802,6 +810,10 @@ module.exports = {
   'South Georgia And The South Sandwich Islands': {
     'abbreviation': 'GS',
     'currency': 'GBP'
+  },
+  'South Sudan': {
+    'abbreviation': 'SS',
+    'currency': 'SSP'
   },
   'Spain': {
     'abbreviation': 'ES',
@@ -916,7 +928,7 @@ module.exports = {
     'currency': 'AED'
   },
   'United Kingdom': {
-    'abbreviation': 'UK',
+    'abbreviation': 'GB',
     'currency': 'GBP'
   },
   'United States': {
@@ -973,6 +985,6 @@ module.exports = {
   },
   'Zimbabwe': {
     'abbreviation': 'ZW',
-    'currency': 'ZWL'
+    'currency': 'USD'
   }
 };
